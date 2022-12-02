@@ -1,3 +1,2 @@
 #!/usr/bin/python3
-
-import test
+__import__('os').system('echo "#pythoniscool"')
